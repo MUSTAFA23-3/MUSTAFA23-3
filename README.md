@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Engineer & Software Architect
 
-I design, build, and deploy premium, production-grade web applications. Specializing in high-performance backends, reactive user interfaces, and robust cloud infrastructures, I create systems that scale gracefully. I am the lead engineer behind several large-scale educational platforms and modern web applications.
+I design, build, and deploy premium, production-grade web applications. Specializing in high-performance backends, reactive user interfaces, and robust cloud infrastructures, I create systems that scale gracefully. I focus on clean architecture, optimized database schemas, and modern engineering practices.
 
 ---
 
@@ -28,22 +28,6 @@ I design, build, and deploy premium, production-grade web applications. Speciali
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🌟 Highlight Projects
-
-### 🎓 [Zayed Platform & Zayed Academy](https://zayed-platform-zayed-academy.vercel.app)
-* **Description:** The official educational platform for Professor Mohamed Zayed. An end-to-end LMS (Learning Management System) supporting thousands of concurrent active students, with video streaming integration, secure exams, automated grading, and comprehensive teacher dashboards.
-* **Stack:** TypeScript, Next.js/React, Tailwind CSS, Supabase, PostgreSQL.
-
-### 📚 [Course Platform](https://github.com/MUSTAFA23-3/course-platform)
-* **Description:** A robust, modular learning management ecosystem designed for fluid user experience and rapid deployment of online course directories.
-* **Stack:** JavaScript, React, Node.js, Express, PostgreSQL.
-
-### 🖥️ [Mohamed Zayed Project](https://github.com/MUSTAFA23-3/mohamed-zayed-project)
-* **Description:** Highly optimized and responsive client-facing application customized for client performance metrics and secure transaction pipelines.
-* **Stack:** JavaScript, HTML5, CSS3, REST APIs.
 
 ---
 
